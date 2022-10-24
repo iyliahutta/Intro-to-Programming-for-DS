@@ -1,0 +1,1 @@
+Hello! This repository includes the content, assignment and code files for the Introduction to Programming for Data Science course that I am undertaking for AY22/23 Semester 2 at Singapore Polytechnic. This course is part of the Data Science Fundamentals Certificate under the Specialist Diploma in Data Science (Data Analytics).
