@@ -4,6 +4,6 @@ The course outline can be found [here](https://github.com/iyliahutta/Intro-to-Pr
 
 Please feel free to follow me on my journey as I learn Python for Data Science and provide any tips or feedback on any of my code. Thank you!
 
-Lab 1 (Introduction to Python) is [complete!](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%201/Lab%201.ipynb).
+Lab 1 (Introduction to Python) is [complete](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%201/Lab%201.ipynb)!
 
 Lab 2 (Numpy) is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%202/).
