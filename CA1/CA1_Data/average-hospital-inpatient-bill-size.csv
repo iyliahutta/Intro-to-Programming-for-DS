@@ -1,0 +1,89 @@
+year,specialty,sector,ward_class,hospital,average_per_day,average_total_bill,total_bill_at_90p,total_bill_at_95p
+2015,Medical,Public,B2,Alexandra Hospital,192,3380,6494,10389
+2015,Medical,Public,C,Alexandra Hospital,129,2558,5099,7306
+2015,Medical,Public,A,Changi General Hospital,1154,6389,14786,20113
+2015,Medical,Public,B1,Changi General Hospital,874,4887,10389,15810
+2015,Medical,Public,B2,Changi General Hospital,323,2081,4265,5987
+2015,Medical,Public,C,Changi General Hospital,229,2047,4231,5970
+2015,Medical,Public,A,Khoo Teck Puat Hospital,1142,5686,11159,15661
+2015,Medical,Public,B1,Khoo Teck Puat Hospital,916,4559,8978,13278
+2015,Medical,Public,B2,Khoo Teck Puat Hospital,406,2098,4374,6381
+2015,Medical,Public,C,Khoo Teck Puat Hospital,274,2195,4508,6224
+2015,Medical,Public,A,KK Women's & Children's Hospital,851,2210,3759,5231
+2015,Medical,Public,B1,KK Women's & Children's Hospital,686,1499,2558,3462
+2015,Medical,Public,B2+,KK Women's & Children's Hospital,418,1018,1697,2293
+2015,Medical,Public,B2,KK Women's & Children's Hospital,389,970,1442,2322
+2015,Medical,Public,C,KK Women's & Children's Hospital,342,2042,3213,8111
+2015,Medical,Public,A,National University Hospital,1312,5278,13072,20375
+2015,Medical,Public,B1,National University Hospital,997,4370,10845,17277
+2015,Medical,Public,B2,National University Hospital,430,2204,4575,6683
+2015,Medical,Public,C,National University Hospital,318,2295,4398,6593
+2015,Medical,Public,A,Ng Teng Fong General Hospital,1197,3844,6626,11485
+2015,Medical,Public,B1,Ng Teng Fong General Hospital,780,2830,6176,10867
+2015,Medical,Public,B2,Ng Teng Fong General Hospital,314,1178,2354,3434
+2015,Medical,Public,C,Ng Teng Fong General Hospital,205,1012,1988,2973
+2015,Medical,Public,A,Singapore General Hospital,1412,7090,14192,24609
+2015,Medical,Public,B1,Singapore General Hospital,1094,5609,10964,17097
+2015,Medical,Public,B2+,Singapore General Hospital,512,2816,5608,9582
+2015,Medical,Public,B2,Singapore General Hospital,439,2498,4896,7697
+2015,Medical,Public,C,Singapore General Hospital,319,2599,5192,8466
+2015,Medical,Public,A,Tan Tock Seng Hospital,1269,7459,15464,24873
+2015,Medical,Public,B1,Tan Tock Seng Hospital,902,7876,18334,28041
+2015,Medical,Public,B2,Tan Tock Seng Hospital,355,2327,5095,7796
+2015,Medical,Public,C,Tan Tock Seng Hospital,227,2517,5478,8338
+2015,Medical,Public,A,National Heart Centre,4142,13140,31016,35725
+2015,Medical,Public,B1,National Heart Centre,3140,10536,26012,30344
+2015,Medical,Public,B2,National Heart Centre,943,3292,8100,10520
+2015,Medical,Public,C,National Heart Centre,725,3457,8036,10255
+2015,Medical,Private,A,Farrer Park Hospital,4616,24687,38811,73287
+2015,Medical,Private,A,Johns Hopkins - NUH International Medical Centre,2107,22357,62686,92724
+2015,Medical,Private,A,Gleneagles Hospital,3621,11530,25087,35988
+2015,Medical,Private,A,Mount Alvernia Hospital,2046,6209,11064,19691
+2015,Medical,Private,A,Mount Elizabeth Hospital,4602,17143,38165,60222
+2015,Medical,Private,A,Mount Elizabeth Novena Hospital,5310,15645,38733,56043
+2015,Medical,Private,A,Parkway East Hospital,2224,5637,9703,13802
+2015,Medical,Private,A,Raffles Hospital,2976,10076,25525,34276
+2015,Medical,Private,A,Thomson Medical Centre,1327,3906,7670,9521
+2015,Surgical,Public,A,Changi General Hospital,1774,7312,15203,21221
+2015,Surgical,Public,B1,Changi General Hospital,1364,5858,12681,16442
+2015,Surgical,Public,B2,Changi General Hospital,552,2607,5582,7810
+2015,Surgical,Public,C,Changi General Hospital,405,2395,5190,7406
+2015,Surgical,Public,A,Khoo Teck Puat Hospital,2125,8124,15722,23752
+2015,Surgical,Public,B1,Khoo Teck Puat Hospital,1558,7125,14689,19489
+2015,Surgical,Public,B2,Khoo Teck Puat Hospital,760,2735,6102,7894
+2015,Surgical,Public,C,Khoo Teck Puat Hospital,523,3509,7017,11635
+2015,Surgical,Public,A,KK Women's & Children's Hospital,2302,5061,9451,12160
+2015,Surgical,Public,B1,KK Women's & Children's Hospital,2170,4667,9439,11957
+2015,Surgical,Public,B2+,KK Women's & Children's Hospital,1133,2914,5639,7000
+2015,Surgical,Public,B2,KK Women's & Children's Hospital,799,2009,4095,5682
+2015,Surgical,Public,C,KK Women's & Children's Hospital,540,1702,3156,4791
+2015,Surgical,Public,A,National University Hospital,2666,8999,18446,26663
+2015,Surgical,Public,B1,National University Hospital,1731,7762,18952,28153
+2015,Surgical,Public,B2,National University Hospital,663,2936,5835,8801
+2015,Surgical,Public,C,National University Hospital,426,3775,8200,12684
+2015,Surgical,Public,A,Ng Teng Fong General Hospital,1372,5044,10114,14923
+2015,Surgical,Public,B1,Ng Teng Fong General Hospital,1268,4629,10096,15846
+2015,Surgical,Public,B2,Ng Teng Fong General Hospital,529,1824,4358,5845
+2015,Surgical,Public,C,Ng Teng Fong General Hospital,357,1638,3716,5222
+2015,Surgical,Public,A,Singapore General Hospital,2788,10541,22290,30292
+2015,Surgical,Public,B1,Singapore General Hospital,2509,9922,20242,26707
+2015,Surgical,Public,B2+,Singapore General Hospital,1166,4351,9659,13927
+2015,Surgical,Public,B2,Singapore General Hospital,658,3393,6962,9819
+2015,Surgical,Public,C,Singapore General Hospital,435,3487,6950,11232
+2015,Surgical,Public,A,Tan Tock Seng Hospital,2337,7964,17937,23915
+2015,Surgical,Public,B1,Tan Tock Seng Hospital,1674,8716,19289,24007
+2015,Surgical,Public,B2,Tan Tock Seng Hospital,642,2568,5528,7714
+2015,Surgical,Public,C,Tan Tock Seng Hospital,330,2773,6120,9068
+2015,Surgical,Public,A,National Heart Centre,3508,31256,46116,54552
+2015,Surgical,Public,B1,National Heart Centre,2787,26402,42656,51028
+2015,Surgical,Public,B2,National Heart Centre,764,7238,12152,16799
+2015,Surgical,Public,C,National Heart Centre,691,8613,14792,25465
+2015,Surgical,Private,A,Farrer Park Hospital,7053,18993,36147,46194
+2015,Surgical,Private,A,Concord Cancer Hospital,5187,13264,35959,45575
+2015,Surgical,Private,A,Gleneagles Hospital,6264,16033,30381,42007
+2015,Surgical,Private,A,Mount Alvernia Hospital,3887,10308,20483,27150
+2015,Surgical,Private,A,Mount Elizabeth Hospital,6936,16467,32750,44244
+2015,Surgical,Private,A,Mount Elizabeth Novena Hospital,6863,16111,33527,45948
+2015,Surgical,Private,A,Parkway East Hospital,4681,10488,22248,29669
+2015,Surgical,Private,A,Raffles Hospital,5993,13497,27298,33193
+2015,Surgical,Private,A,Thomson Medical Centre,3340,8109,12626,14749
