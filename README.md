@@ -6,6 +6,6 @@ Please feel free to follow me on my journey as I learn Python for Data Science a
 
 Lab 1 (Introduction to Python) is [complete](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%201/Lab%201.ipynb)!
 
-Lab 2 (Numpy) is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%202/Lab%202.ipynb).
+Lab 2 (Numpy) is [complete](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%202/Lab%202.ipynb)!
 
 Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotlib is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/tree/master/CA1).
