@@ -1,0 +1,58 @@
+# Metadata for Number of Resale Applications Registered by Flat Type, Quarterly
+---
+Identifier: 'f64c7e3b-98fd-4f8a-bb14-2745f970c48b'
+Name: 'number-of-resale-applications-registered-by-flat-type-quarterly'
+Title: 'Number of Resale Applications Registered by Flat Type, Quarterly'
+Description: 'Number of resale applications registered by flat type, by quarter.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'HDB'
+  - 'Housing'
+  - 'Property'
+  - 'Public Housing'
+  - 'Resale Flats'
+Publisher:
+  Name: 'Housing and Development Board'
+  Admin 1:
+    Name: 'Lim Hui Ying'
+    Department: 'HDB'
+    Email: 'LIM_Hui_Ying@hdb.gov.sg'
+  Admin 2:
+    Name: 'Toh Xue Qin'
+    Department: 'HDB'
+    Email: 'toh_xue_qin@hdb.gov.sg'
+Sources:
+  - 'Housing and Development Board'
+Source Url: 'http://www.hdb.gov.sg/cs/infoweb/residential/buying-a-flat/resale/resale-statistics'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '2007-01-01 to 2022-03-31'
+Last Updated: '2022-06-22T04:52:50.494378'
+Resources:
+  -
+    Identifier: '144dbc6b-6113-4fa4-a583-c471eafce539'
+    Title: 'Number of Resale Applications Registered by Flat Type'
+    Url: 'https://storage.data.gov.sg/number-of-resale-applications-registered-by-flat-type-quarterly/resources/number-of-resale-applications-registered-by-flat-type-2022-06-22T04-52-49Z.csv'
+    Format: 'CSV'
+    Coverage: '2007-01-01 to 2022-03-31'
+    Description: 'Number of Resale Applications Registered by Flat Type, by Quarter'
+    Last Updated: '2022-06-22T04:52:49.560510'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'flat_type'
+        Title: 'Flat type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'no_of_resale_applications'
+        Title: 'No of resale applications'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Count'
