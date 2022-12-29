@@ -12,4 +12,6 @@ Lab 2 (Numpy) is [complete](https://github.com/iyliahutta/Intro-to-Programming-f
 
 Lab 3 (Matplotlib) is [complete](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%203/Lab%203.ipynb)!
 
-Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotlib is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1.ipynb).
+Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotlib is ongoing.
+    - The Jupyter notebook is [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1.ipynb)
+    - The report slides are [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1%20Slides.pptx)
