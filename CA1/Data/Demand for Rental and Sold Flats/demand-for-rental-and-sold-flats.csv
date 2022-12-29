@@ -23,3 +23,5 @@ start_year,end_year,flat_type,demand_for_flats
 2011,2015,home_ownership_flats,136537
 2016,2020,rental_flats,29399
 2016,2020,home_ownership_flats,111578
+2021,-,rental_flats,9780
+2021,-,home_ownership_flats,21045
