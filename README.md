@@ -16,8 +16,8 @@ Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotl
 * The Jupyter notebook is [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1.ipynb)
 * The report slides are [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1%20Slides.pptx)
 
-Continuous Assessment 2 (CA2) is ongoing: 
-* To use at least three datasets from [data.gov.sg](data.gov.sg)
+Continuous Assessment 2 (CA2) is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/tree/master/CA2): 
+* To use at least three datasets from [data.gov.sg](https://data.gov.sg)
     * Unrestricted topic with the option to use datasets from anywhere else on the Internet
 * To use Pandas for data manipulation
 * To use Matplotlib, Seaborn, Bokeh, Pygal etc. for data visualisation
