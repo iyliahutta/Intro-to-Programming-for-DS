@@ -12,6 +12,14 @@ Lab 2 (Numpy) is [complete](https://github.com/iyliahutta/Intro-to-Programming-f
 
 Lab 3 (Matplotlib) is [complete](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%203/Lab%203.ipynb)!
 
-Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotlib is ongoing:
+Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotlib is completed!:
 * The Jupyter notebook is [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1.ipynb)
 * The report slides are [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1%20Slides.pptx)
+
+Continuous Assessment 2 (CA2) is ongoing: 
+* To use at least three datasets from [data.gov.sg](data.gov.sg)
+    * Unrestricted topic with the option to use datasets from anywhere else on the Internet
+* To use Pandas for data manipulation
+* To use Matplotlib, Seaborn, Bokeh, Pygal etc. for data visualisation
+* To store and retrieve data in a relational database such as mySQL or NoSQL database like MongoDB on at least one of the datasets
+    * To produce interactive visualisations that allow users to view the data in different ways
