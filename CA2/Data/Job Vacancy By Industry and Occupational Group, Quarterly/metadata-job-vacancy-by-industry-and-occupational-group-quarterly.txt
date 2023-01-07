@@ -1,0 +1,217 @@
+# Metadata for Job Vacancy by Industry and Occupational Group, Quarterly
+---
+Identifier: '31348042-8164-46b5-9b9a-49b68711a4b4'
+Name: 'job-vacancy-by-industry-and-occupational-group-quarterly'
+Title: 'Job Vacancy by Industry and Occupational Group, Quarterly'
+Description:
+  - 'Source: Labour Market Survey, Manpower Research & Statistics Department, MOM'
+  - ''
+  - 'Job Vacancy refers to the number of unfilled posts for which an establishment
+    is actively recruiting employees from outside the establishment.  They exclude'
+  - ''
+  - 'a)	Positions for which the employees have been appointed, but have not yet commenced
+    duty;'
+  - ''
+  - 'b)	Positions open only to internal transfers, promotion.'
+  - ''
+  - 'Recruitment action to fill a post includes advertising in newspapers, posting
+    notices on the internet (e.g. on online job banks), making word-of-mouth announcements,
+    soliciting employees through employment agencies or job fairs, contacting or interviewing
+    registered job applicants.'
+  - ''
+  - 'Before 2006, data on job vacancies pertain to private sector establishments each
+    with at least 25 employees. From 2006 onwards, data also include the public sector.
+    A new methodology was also introduced in Q1 2010 to improve the estimation of
+    job vacancies. Data spanning back to 2006 have been revised using this methodology.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'employment'
+  - 'jobs'
+  - 'recruitment'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Samantha Teo'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'samantha_teo@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'http://stats.mom.gov.sg/Pages/Job-Vacancy-Summary-Table.aspx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '1998-01-01 to 2022-09-30'
+Last Updated: '2022-12-16T02:22:23.038960'
+Resources:
+  -
+    Identifier: 'ed6ca640-a1e6-4435-b06a-493981a620cd'
+    Title: 'Job Vacancy - Topline'
+    Url: 'https://storage.data.gov.sg/job-vacancy-by-industry-and-occupational-group-quarterly/resources/job-vacancy-topline-2022-12-15T06-45-38Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+    Last Updated: '2022-12-15T06:45:38.498448'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'job_vacancy'
+        Title: 'Job Vacancy'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of vacancies'
+  -
+    Identifier: '3ba4be1b-b954-4db8-9c0f-d7a3745f8294'
+    Title: 'Job Vacancy by Industry and Occupational Group (Level1)'
+    Url: 'https://storage.data.gov.sg/job-vacancy-by-industry-and-occupational-group-quarterly/resources/job-vacancy-by-industry-and-occupational-group-level1-2022-12-15T06-46-42Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to the nearest 100.  Hence, they may not add up to the total.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:46:42.585063'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'job_vacancy'
+        Title: 'Job Vacancy'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of vacancies'
+        Description: '"-" : Data is negligible or not significant'
+  -
+    Identifier: 'f590306d-160a-4b20-9f3c-15e234dd64ce'
+    Title: 'Job Vacancy by Industry and Occupational Group (Level2)'
+    Url: 'https://storage.data.gov.sg/job-vacancy-by-industry-and-occupational-group-quarterly/resources/job-vacancy-by-industry-and-occupational-group-level2-2022-12-15T06-48-04Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to the nearest 100.  Hence, they may not add up to the total.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:48:04.161469'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'job_vacancy'
+        Title: 'Job Vacancy'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of vacancies'
+        Description: '"-" : Data is negligible or not significant'
+  -
+    Identifier: '19f4c130-4d5d-4d08-9a23-5c8443f7dc51'
+    Title: 'Job Vacancy by Industry and Occupational Group (Level3)'
+    Url: 'https://storage.data.gov.sg/job-vacancy-by-industry-and-occupational-group-quarterly/resources/job-vacancy-by-industry-and-occupational-group-level3-2022-12-15T06-51-04Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to the nearest 100.  Hence, they may not add up to the total.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:51:04.334345'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry3'
+        Title: 'Industry3'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'job_vacancy'
+        Title: 'Job Vacancy'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of vacancies'
+        Description: '"-" : Data is negligible or not significant'
