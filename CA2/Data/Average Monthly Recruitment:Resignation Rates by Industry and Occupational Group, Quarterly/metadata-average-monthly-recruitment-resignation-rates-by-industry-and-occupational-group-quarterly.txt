@@ -1,0 +1,253 @@
+# Metadata for Average Monthly Recruitment/Resignation Rates by Industry and Occupational Group, Quarterly
+---
+Identifier: 'a1048757-68b5-4a55-b55c-c24aa0e6041f'
+Name: 'average-monthly-recruitment-resignation-rates-by-industry-and-occupational-group-quarterly'
+Title: 'Average Monthly Recruitment/Resignation Rates by Industry and Occupational
+  Group, Quarterly'
+Description:
+  - 'Source: Labour Market Survey, Manpower Research & Statistics Department, MOM
+    ​'
+  - ''
+  - 'The average monthly recruitment/resignation rate during a quarter is defined
+    as the average number of persons recruited/resigned in a month during the quarter
+    divided by the average number of employees in the establishment.'
+  - ''
+  - 'Before 2006, the Labour Market Survey covers private sector establishments each
+    with at least 25 employees. From 2006 onwards, the survey also covers the public
+    sector.'
+  - ''
+  - 'Data are rounded to one decimal place.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'employment'
+  - 'jobs'
+  - 'labour turnover'
+  - 'recruit'
+  - 'recruitment'
+  - 'resign'
+  - 'resignation'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Samantha Teo'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'samantha_teo@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'http://stats.mom.gov.sg/Pages/Labour-Turnover-Summary-Table.aspx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '1998-01-01 to 2022-09-30'
+Last Updated: '2022-12-15T06:29:45.337576'
+Resources:
+  -
+    Identifier: '7e227620-eea6-4232-bb60-d2c6bbdc3a81'
+    Title: 'Average Monthly Recruitment/Resignation Rate-Topline'
+    Url: 'https://storage.data.gov.sg/average-monthly-recruitment-resignation-rates-by-industry-and-occupational-group-quarterly/resources/average-monthly-recruitment-resignation-rate-topline-2022-12-15T06-25-35Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+    Last Updated: '2022-12-15T06:25:35.868597'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'recruitment_rate'
+        Title: 'Recruitment Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'
+      -
+        Name: 'resignation_rate'
+        Title: 'Resignation Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'
+  -
+    Identifier: '41474b18-70a1-44c4-a645-3aac86fe71f9'
+    Title: 'Average Monthly Recruitment/Resignation Rate by Industry and Occupational
+      Group (Level1)'
+    Url: 'https://storage.data.gov.sg/average-monthly-recruitment-resignation-rates-by-industry-and-occupational-group-quarterly/resources/average-monthly-recruitment-resignation-rate-by-industry-and-occupational-group-level1-2022-12-15T06-27-07Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:27:07.661621'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'recruitment_rate'
+        Title: 'Recruitment Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'
+      -
+        Name: 'resignation_rate'
+        Title: 'Resignation Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'
+  -
+    Identifier: 'edd9f75d-ab16-468f-93d9-c566260889f2'
+    Title: 'Average Monthly Recruitment/Resignation Rate by Industry and Occupational
+      Group (Level 2)'
+    Url: 'https://storage.data.gov.sg/average-monthly-recruitment-resignation-rates-by-industry-and-occupational-group-quarterly/resources/average-monthly-recruitment-resignation-rate-by-industry-and-occupational-group-level-2-2022-12-15T06-28-28Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:28:28.242570'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'recruitment_rate'
+        Title: 'Recruitment Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'
+      -
+        Name: 'resignation_rate'
+        Title: 'Resignation Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description: 'Percentages are expressed as a value over 100, i.e. "100" represents
+          100%'
+  -
+    Identifier: '0e734bf5-6c0a-4554-9f7c-6ed8c820c69b'
+    Title: 'Average Monthly Recruitment/Resignation Rate by Industry and Occupational
+      Group (Level 3)'
+    Url: 'https://storage.data.gov.sg/average-monthly-recruitment-resignation-rates-by-industry-and-occupational-group-quarterly/resources/average-monthly-recruitment-resignation-rate-by-industry-and-occupational-group-level-3-2022-12-15T06-29-44Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:29:44.273925'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry3'
+        Title: 'Industry3'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'recruitment_rate'
+        Title: 'Recruitment Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"-" : Data is negligible or not significant'
+      -
+        Name: 'resignation_rate'
+        Title: 'Resignation Rate'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"-" : Data is negligible or not significant'
