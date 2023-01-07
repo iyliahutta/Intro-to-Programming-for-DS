@@ -1,0 +1,359 @@
+year,major_occ,ind1,occ_desc,mthly_gross_wage_50_pctile,mthly_basic_wage_50_pctile
+2021,"professionals, managers & executives",manufacturing,industrial and production engineer,5614,4960
+2021,"professionals, managers & executives",manufacturing,electronics engineer,5400,5185
+2021,"professionals, managers & executives",manufacturing,transport and vehicle engineer,5608,5398
+2021,"professionals, managers & executives","food, beverages & tobacco",sales manager,6581,5401
+2021,"professionals, managers & executives","food, beverages & tobacco",managing director/chief executive officer,7766,7000
+2021,"professionals, managers & executives","food, beverages & tobacco",budgeting and financial accounting manager (including financial controller),7350,7000
+2021,"professionals, managers & executives",paper/ rubber/ plastic product & printing,industrial and production engineer,4655,4475
+2021,"professionals, managers & executives",paper/ rubber/ plastic product & printing,managing director/chief executive officer,11080,10205
+2021,"professionals, managers & executives",paper/ rubber/ plastic product & printing,sales manager,6100,4756
+2021,"professionals, managers & executives","petroleum, chemical & pharmaceutical products",industrial and production engineer,7737,7001
+2021,"professionals, managers & executives","petroleum, chemical & pharmaceutical products",chemical engineer (excluding petroleum and petrochemicals),5921,4656
+2021,"professionals, managers & executives","petroleum, chemical & pharmaceutical products",technical/engineering services manager (excluding transport),9967,9913
+2021,"professionals, managers & executives","fabricated metal products, machinery & equipment",industrial and production engineer,4391,4249
+2021,"professionals, managers & executives","fabricated metal products, machinery & equipment",mechanical engineer (excluding transport and vehicle engineer),4685,4366
+2021,"professionals, managers & executives","fabricated metal products, machinery & equipment",electrical engineer,4680,4128
+2021,"professionals, managers & executives","electronic, computer & optical products",industrial and production engineer,5750,4976
+2021,"professionals, managers & executives","electronic, computer & optical products",electronics engineer,5375,5185
+2021,"professionals, managers & executives","electronic, computer & optical products",sales manager,9420,8995
+2021,"professionals, managers & executives",transport equipment,transport and vehicle engineer,5611,5400
+2021,"professionals, managers & executives",transport equipment,industrial and production engineer,6729,6308
+2021,"professionals, managers & executives",transport equipment,technical/engineering services manager (excluding transport),6434,6006
+2021,"professionals, managers & executives",construction,construction manager,6500,6000
+2021,"professionals, managers & executives",construction,managing director/chief executive officer,7800,7000
+2021,"professionals, managers & executives",construction,civil engineer,5200,4850
+2021,"professionals, managers & executives",services,sales manager,8162,7000
+2021,"professionals, managers & executives",services,financial services manager,10309,9871
+2021,"professionals, managers & executives",services,financial and investment adviser,5695,5480
+2021,"professionals, managers & executives",wholesale and retail trade,sales manager,7804,6681
+2021,"professionals, managers & executives",wholesale and retail trade,budgeting and financial accounting manager (including financial controller),9150,8415
+2021,"professionals, managers & executives",wholesale and retail trade,business development manager,9750,8380
+2021,"professionals, managers & executives",wholesale trade,sales manager,8076,6840
+2021,"professionals, managers & executives",wholesale trade,budgeting and financial accounting manager (including financial controller),9270,8504
+2021,"professionals, managers & executives",wholesale trade,business development manager,10300,8852
+2021,"professionals, managers & executives",retail trade,retail manager,4830,4000
+2021,"professionals, managers & executives",retail trade,sales manager,5476,4970
+2021,"professionals, managers & executives",retail trade,managing director/chief executive officer,8973,8787
+2021,"professionals, managers & executives",transportation and storage,transport/technical operations manager (except port/shipping operations),6348,6000
+2021,"professionals, managers & executives",transportation and storage,port/shipping operations manager,6995,6629
+2021,"professionals, managers & executives",transportation and storage,business development manager,7312,6700
+2021,"professionals, managers & executives",land transport & supporting services,transport/technical operations manager (except port/shipping operations),6400,6048
+2021,"professionals, managers & executives",land transport & supporting services,transport and vehicle engineer,4592,4325
+2021,"professionals, managers & executives",land transport & supporting services,technical/engineering services manager (excluding transport),6018,5736
+2021,"professionals, managers & executives",water transport & supporting services,port/shipping operations manager,7028,6792
+2021,"professionals, managers & executives",water transport & supporting services,mechanical engineer (excluding transport and vehicle engineer),5279,4582
+2021,"professionals, managers & executives",water transport & supporting services,budgeting and financial accounting manager (including financial controller),7488,6993
+2021,"professionals, managers & executives",air transport & supporting services,transport/technical operations manager (except port/shipping operations),6315,6043
+2021,"professionals, managers & executives",air transport & supporting services,business development manager,10463,10463
+2021,"professionals, managers & executives",air transport & supporting services,technical/engineering services manager (excluding transport),7021,7000
+2021,"professionals, managers & executives",accommodation and food services,restaurant manager,3377,3198
+2021,"professionals, managers & executives",accommodation and food services,sales manager,5300,4897
+2021,"professionals, managers & executives",accommodation and food services,managing director/chief executive officer,5000,5000
+2021,"professionals, managers & executives",accommodation,hotel operations/lodging services manager,4458,4200
+2021,"professionals, managers & executives",accommodation,sales manager,5538,5050
+2021,"professionals, managers & executives",accommodation,restaurant manager,4000,3854
+2021,"professionals, managers & executives",food & beverage services,restaurant manager,3290,3134
+2021,"professionals, managers & executives",food & beverage services,managing director/chief executive officer,4550,4000
+2021,"professionals, managers & executives",food & beverage services,chief operating officer/general manager,6000,5585
+2021,"professionals, managers & executives",information and communications,systems analyst,6823,6110
+2021,"professionals, managers & executives",information and communications,sales manager,15000,10569
+2021,"professionals, managers & executives",information and communications,"software, web and multimedia developer",6135,5500
+2021,"professionals, managers & executives","telecommunications, broadcasting & publishing",sales manager,18750,11982
+2021,"professionals, managers & executives","telecommunications, broadcasting & publishing",systems analyst,9684,8301
+2021,"professionals, managers & executives","telecommunications, broadcasting & publishing",business development manager,13407,11774
+2021,"professionals, managers & executives",it & other information services,systems analyst,6201,5528
+2021,"professionals, managers & executives",it & other information services,"software, web and multimedia developer",6174,5458
+2021,"professionals, managers & executives",it & other information services,electronics engineer,4923,4865
+2021,"professionals, managers & executives",financial and insurance services,financial services manager,10240,9796
+2021,"professionals, managers & executives",financial and insurance services,financial and investment adviser,5692,5479
+2021,"professionals, managers & executives",financial and insurance services,chief operating officer/general manager,13874,13874
+2021,"professionals, managers & executives",financial services,financial services manager,10231,9774
+2021,"professionals, managers & executives",financial services,financial and investment adviser,6000,5750
+2021,"professionals, managers & executives",financial services,chief operating officer/general manager,13970,13970
+2021,"professionals, managers & executives",insurance,insurance underwriter,5964,5840
+2021,"professionals, managers & executives",insurance,insurance services manager,9991,9661
+2021,"professionals, managers & executives",insurance,business development manager,8026,7652
+2021,"professionals, managers & executives",real estate services,premises and facilities maintenance manager (excluding building security manager),5550,5310
+2021,"professionals, managers & executives",real estate services,sales manager,6025,5153
+2021,"professionals, managers & executives",real estate services,budgeting and financial accounting manager (including financial controller),6950,6437
+2021,"professionals, managers & executives",professional services,civil engineer,6013,5850
+2021,"professionals, managers & executives",professional services,sales manager,9429,8096
+2021,"professionals, managers & executives",professional services,technical/engineering services manager (excluding transport),9317,8914
+2021,"professionals, managers & executives","legal, accounting & management services",tax accountant,7365,7200
+2021,"professionals, managers & executives","legal, accounting & management services",sales manager,11001,9481
+2021,"professionals, managers & executives","legal, accounting & management services",management and business consultant,6340,6172
+2021,"professionals, managers & executives",architectural & engineering services,civil engineer,6018,5831
+2021,"professionals, managers & executives",architectural & engineering services,technical/engineering services manager (excluding transport),9295,8828
+2021,"professionals, managers & executives",architectural & engineering services,electronics engineer,6697,5463
+2021,"professionals, managers & executives",administrative and support services,electronics engineer,3868,3600
+2021,"professionals, managers & executives",administrative and support services,systems analyst,4430,4200
+2021,"professionals, managers & executives",administrative and support services,managing director/chief executive officer,8000,6955
+2021,"professionals, managers & executives","education, health and social services","registered nurse and other nursing professional (e.g. clinical nurse, nurse educator, excluding enrolled nurse)",4433,4300
+2021,"professionals, managers & executives","education, health and social services",education and training institution manager,6220,6060
+2021,"professionals, managers & executives","education, health and social services",university lecturer,12811,12303
+2021,"professionals, managers & executives",health & social services,"registered nurse and other nursing professional (e.g. clinical nurse, nurse educator, excluding enrolled nurse)",4436,4300
+2021,"professionals, managers & executives",health & social services,general practitioner/physician,20000,20000
+2021,"professionals, managers & executives",health & social services,specialist medical practitioner (other specialisations) - i,21389,20000
+2021,"professionals, managers & executives","arts, entertainment, recreation and other services",recreation centre manager,4628,3650
+2021,"professionals, managers & executives","arts, entertainment, recreation and other services",social service professional,3697,3669
+2021,"professionals, managers & executives","arts, entertainment, recreation and other services",public relations/corporate communications professional,3435,3153
+2021,associate professionals & technicians,manufacturing,transport and vehicle engineering technician,3661,3575
+2021,associate professionals & technicians,manufacturing,manufacturing engineering technician,4010,3195
+2021,associate professionals & technicians,manufacturing,mechanical engineering technician (excluding transport and vehicle engineering technician),3773,3382
+2021,associate professionals & technicians,"food, beverages & tobacco",commercial and marketing sales executive,2561,2150
+2021,associate professionals & technicians,"food, beverages & tobacco",operations officer (except transport operations),3781,3270
+2021,associate professionals & technicians,"food, beverages & tobacco",manufacturing engineering technician,4986,3640
+2021,associate professionals & technicians,paper/ rubber/ plastic product & printing,commercial and marketing sales executive,3725,3275
+2021,associate professionals & technicians,paper/ rubber/ plastic product & printing,mechanical engineering technician (excluding transport and vehicle engineering technician),4529,3079
+2021,associate professionals & technicians,paper/ rubber/ plastic product & printing,manufacturing engineering technician,3276,3006
+2021,associate professionals & technicians,"petroleum, chemical & pharmaceutical products",chemical engineering technician,5238,5235
+2021,associate professionals & technicians,"petroleum, chemical & pharmaceutical products",manufacturing engineering technician,5145,3866
+2021,associate professionals & technicians,"petroleum, chemical & pharmaceutical products",chemistry technician,6397,3993
+2021,associate professionals & technicians,"fabricated metal products, machinery & equipment",electrical engineering technician,4000,2538
+2021,associate professionals & technicians,"fabricated metal products, machinery & equipment",manufacturing engineering technician,3663,3000
+2021,associate professionals & technicians,"fabricated metal products, machinery & equipment",mechanical engineering technician (excluding transport and vehicle engineering technician),3738,2907
+2021,associate professionals & technicians,"electronic, computer & optical products",manufacturing engineering technician,4108,3395
+2021,associate professionals & technicians,"electronic, computer & optical products",assistant manufacturing engineer,4062,3915
+2021,associate professionals & technicians,"electronic, computer & optical products",management executive,6555,6456
+2021,associate professionals & technicians,transport equipment,transport and vehicle engineering technician,3663,3575
+2021,associate professionals & technicians,transport equipment,mechanical engineering technician (excluding transport and vehicle engineering technician),3672,3539
+2021,associate professionals & technicians,transport equipment,management executive,3849,3737
+2021,associate professionals & technicians,construction,management executive,4640,4144
+2021,associate professionals & technicians,construction,assistant accountant,3170,3000
+2021,associate professionals & technicians,construction,operations officer (except transport operations),2750,2550
+2021,associate professionals & technicians,services,operations officer (except transport operations),4075,3831
+2021,associate professionals & technicians,services,commercial and marketing sales executive,3982,3565
+2021,associate professionals & technicians,services,management executive,4280,4087
+2021,associate professionals & technicians,wholesale and retail trade,commercial and marketing sales executive,4000,3523
+2021,associate professionals & technicians,wholesale and retail trade,operations officer (except transport operations),4230,3775
+2021,associate professionals & technicians,wholesale and retail trade,buyer and purchasing agent,3640,3454
+2021,associate professionals & technicians,wholesale trade,commercial and marketing sales executive,4180,3653
+2021,associate professionals & technicians,wholesale trade,operations officer (except transport operations),4500,3968
+2021,associate professionals & technicians,wholesale trade,buyer and purchasing agent,3807,3514
+2021,associate professionals & technicians,retail trade,commercial and marketing sales executive,3465,2800
+2021,associate professionals & technicians,retail trade,operations officer (except transport operations),3077,3000
+2021,associate professionals & technicians,retail trade,buyer and purchasing agent,3350,3079
+2021,associate professionals & technicians,transportation and storage,port/shipping operations supervisor (including post-fixture and planner),3768,2950
+2021,associate professionals & technicians,transportation and storage,mechanical engineering technician (excluding transport and vehicle engineering technician),3723,2974
+2021,associate professionals & technicians,transportation and storage,operations officer (except transport operations),3495,3070
+2021,associate professionals & technicians,land transport & supporting services,road transport supervisor,3785,2969
+2021,associate professionals & technicians,land transport & supporting services,transport and vehicle engineering technician,3709,2994
+2021,associate professionals & technicians,land transport & supporting services,train operations officer,3175,2400
+2021,associate professionals & technicians,water transport & supporting services,port/shipping operations supervisor (including post-fixture and planner),3773,2946
+2021,associate professionals & technicians,water transport & supporting services,mechanical engineering technician (excluding transport and vehicle engineering technician),3670,2793
+2021,associate professionals & technicians,water transport & supporting services,assistant accountant,3760,3714
+2021,associate professionals & technicians,air transport & supporting services,operations officer (except transport operations),3582,3233
+2021,associate professionals & technicians,air transport & supporting services,commercial and marketing sales executive,3298,3143
+2021,associate professionals & technicians,air transport & supporting services,air cargo officer,3042,2880
+2021,associate professionals & technicians,accommodation and food services,chef,3609,3290
+2021,associate professionals & technicians,accommodation and food services,operations officer (except transport operations),2150,2000
+2021,associate professionals & technicians,accommodation and food services,management executive,3030,2780
+2021,associate professionals & technicians,accommodation,chef,3707,3594
+2021,associate professionals & technicians,food & beverage services,chef,3152,3063
+2021,associate professionals & technicians,food & beverage services,operations officer (except transport operations),1500,1500
+2021,associate professionals & technicians,food & beverage services,commercial and marketing sales executive,1613,1500
+2021,associate professionals & technicians,information and communications,commercial and marketing sales executive,4688,4040
+2021,associate professionals & technicians,information and communications,business development executive,4190,3900
+2021,associate professionals & technicians,information and communications,operations officer (except transport operations),4750,4659
+2021,associate professionals & technicians,"telecommunications, broadcasting & publishing",commercial and marketing sales executive,5874,4898
+2021,associate professionals & technicians,"telecommunications, broadcasting & publishing",operations officer (except transport operations),4680,4597
+2021,associate professionals & technicians,"telecommunications, broadcasting & publishing",business development executive,6281,5010
+2021,associate professionals & technicians,it & other information services,commercial and marketing sales executive,4328,3900
+2021,associate professionals & technicians,it & other information services,business development executive,4100,3800
+2021,associate professionals & technicians,it & other information services,operations officer (except transport operations),4825,4659
+2021,associate professionals & technicians,financial and insurance services,operations officer (except transport operations),4340,4165
+2021,associate professionals & technicians,financial and insurance services,management executive,5000,5000
+2021,associate professionals & technicians,financial and insurance services,commercial and marketing sales executive,4777,4602
+2021,associate professionals & technicians,financial services,operations officer (except transport operations),4340,4165
+2021,associate professionals & technicians,financial services,management executive,5000,5000
+2021,associate professionals & technicians,financial services,credit and loans officer,4451,4381
+2021,associate professionals & technicians,insurance,valuer and loss assessor,4624,4584
+2021,associate professionals & technicians,insurance,commercial and marketing sales executive,4500,4250
+2021,associate professionals & technicians,insurance,management executive,5162,4720
+2021,associate professionals & technicians,real estate services,premises and facilities maintenance officer,3054,2930
+2021,associate professionals & technicians,real estate services,civil engineering technician,2875,2672
+2021,associate professionals & technicians,real estate services,management executive,4124,3930
+2021,associate professionals & technicians,professional services,civil engineering technician,5100,4700
+2021,associate professionals & technicians,professional services,commercial and marketing sales executive,3669,3400
+2021,associate professionals & technicians,professional services,tax associate professional,3300,3185
+2021,associate professionals & technicians,"legal, accounting & management services",tax associate professional,3300,3185
+2021,associate professionals & technicians,"legal, accounting & management services",legal associate professional (e.g. paralegal),7850,7600
+2021,associate professionals & technicians,"legal, accounting & management services",commercial and marketing sales executive,3520,3500
+2021,associate professionals & technicians,architectural & engineering services,civil engineering technician,5169,4710
+2021,associate professionals & technicians,architectural & engineering services,mechanical engineering technician (excluding transport and vehicle engineering technician),2853,2740
+2021,associate professionals & technicians,architectural & engineering services,draughtsman,4917,4766
+2021,associate professionals & technicians,administrative and support services,operations officer (except transport operations),3210,3000
+2021,associate professionals & technicians,administrative and support services,management executive,4750,4000
+2021,associate professionals & technicians,administrative and support services,commercial and marketing sales executive,3500,3200
+2021,associate professionals & technicians,"education, health and social services",management executive,3883,3767
+2021,associate professionals & technicians,"education, health and social services",operations officer (except transport operations),3670,3415
+2021,associate professionals & technicians,"education, health and social services",enrolled/assistant nurse (excluding registered nurse),2876,2796
+2021,associate professionals & technicians,health & social services,enrolled/assistant nurse (excluding registered nurse),2876,2796
+2021,associate professionals & technicians,health & social services,pre-primary education teacher,2878,2828
+2021,associate professionals & technicians,health & social services,medical and pathology laboratory technician,3854,3277
+2021,associate professionals & technicians,"arts, entertainment, recreation and other services",operations officer (except transport operations),3595,3190
+2021,associate professionals & technicians,"arts, entertainment, recreation and other services",management executive,3600,3503
+2021,associate professionals & technicians,"arts, entertainment, recreation and other services",commercial and marketing sales executive,3000,2700
+2021,"clerical, service & sales workers",manufacturing,general office clerk,2443,2300
+2021,"clerical, service & sales workers",manufacturing,accounting and bookkeeping clerk,2934,2800
+2021,"clerical, service & sales workers",manufacturing,production clerk,2785,2348
+2021,"clerical, service & sales workers","food, beverages & tobacco",shop sales assistant,1400,1400
+2021,"clerical, service & sales workers","food, beverages & tobacco",general office clerk,2350,2165
+2021,"clerical, service & sales workers","food, beverages & tobacco",production clerk,1500,1487
+2021,"clerical, service & sales workers",paper/ rubber/ plastic product & printing,general office clerk,2400,2274
+2021,"clerical, service & sales workers",paper/ rubber/ plastic product & printing,"receptionist, customer service and information clerk",3100,3000
+2021,"clerical, service & sales workers",paper/ rubber/ plastic product & printing,accounting and bookkeeping clerk,2875,2834
+2021,"clerical, service & sales workers","petroleum, chemical & pharmaceutical products",general office clerk,3912,3722
+2021,"clerical, service & sales workers","petroleum, chemical & pharmaceutical products","receptionist, customer service and information clerk",4260,4150
+2021,"clerical, service & sales workers","petroleum, chemical & pharmaceutical products",production clerk,3706,2650
+2021,"clerical, service & sales workers","fabricated metal products, machinery & equipment",general office clerk,2290,2150
+2021,"clerical, service & sales workers","fabricated metal products, machinery & equipment",accounting and bookkeeping clerk,2900,2800
+2021,"clerical, service & sales workers","fabricated metal products, machinery & equipment",stock clerk,2811,2378
+2021,"clerical, service & sales workers","electronic, computer & optical products",general office clerk,5393,5333
+2021,"clerical, service & sales workers","electronic, computer & optical products","receptionist, customer service and information clerk",3873,3846
+2021,"clerical, service & sales workers","electronic, computer & optical products",production clerk,2637,2432
+2021,"clerical, service & sales workers",transport equipment,general office clerk,1400,1400
+2021,"clerical, service & sales workers",transport equipment,accounting and bookkeeping clerk,2659,2500
+2021,"clerical, service & sales workers",transport equipment,stock clerk,2606,2411
+2021,"clerical, service & sales workers",construction,general office clerk,1600,1500
+2021,"clerical, service & sales workers",construction,accounting and bookkeeping clerk,2300,2100
+2021,"clerical, service & sales workers",construction,secretary,3360,3120
+2021,"clerical, service & sales workers",services,general office clerk,2627,2500
+2021,"clerical, service & sales workers",services,"receptionist, customer service and information clerk",2803,2600
+2021,"clerical, service & sales workers",services,shop sales assistant,2021,1710
+2021,"clerical, service & sales workers",wholesale and retail trade,shop sales assistant,2075,1794
+2021,"clerical, service & sales workers",wholesale and retail trade,general office clerk,2700,2575
+2021,"clerical, service & sales workers",wholesale and retail trade,"receptionist, customer service and information clerk",3411,3100
+2021,"clerical, service & sales workers",wholesale trade,general office clerk,2880,2700
+2021,"clerical, service & sales workers",wholesale trade,"receptionist, customer service and information clerk",3600,3403
+2021,"clerical, service & sales workers",wholesale trade,shop sales assistant,3050,2293
+2021,"clerical, service & sales workers",retail trade,shop sales assistant,1956,1671
+2021,"clerical, service & sales workers",retail trade,cashier,1855,1670
+2021,"clerical, service & sales workers",retail trade,sales supervisor,2887,2470
+2021,"clerical, service & sales workers",transportation and storage,mail carrier and sorting worker,2420,1992
+2021,"clerical, service & sales workers",transportation and storage,"receptionist, customer service and information clerk",2659,2450
+2021,"clerical, service & sales workers",transportation and storage,general office clerk,2867,2800
+2021,"clerical, service & sales workers",land transport & supporting services,office supervisor,3430,2853
+2021,"clerical, service & sales workers",land transport & supporting services,general office clerk,2642,2508
+2021,"clerical, service & sales workers",land transport & supporting services,transport clerk,3734,2500
+2021,"clerical, service & sales workers",water transport & supporting services,general office clerk,3487,3300
+2021,"clerical, service & sales workers",water transport & supporting services,transport clerk,3079,2822
+2021,"clerical, service & sales workers",water transport & supporting services,accounting and bookkeeping clerk,3525,3458
+2021,"clerical, service & sales workers",air transport & supporting services,"receptionist, customer service and information clerk",2556,2387
+2021,"clerical, service & sales workers",air transport & supporting services,accounting and bookkeeping clerk,3060,3057
+2021,"clerical, service & sales workers",air transport & supporting services,general office clerk,2947,2947
+2021,"clerical, service & sales workers",accommodation and food services,waiter,1400,1400
+2021,"clerical, service & sales workers",accommodation and food services,food service counter attendant,1713,1331
+2021,"clerical, service & sales workers",accommodation and food services,captain waiter/waiter supervisor,2232,2000
+2021,"clerical, service & sales workers",accommodation,"receptionist, customer service and information clerk",2504,2323
+2021,"clerical, service & sales workers",accommodation,housekeeper and related worker,2929,2877
+2021,"clerical, service & sales workers",accommodation,captain waiter/waiter supervisor,2718,2550
+2021,"clerical, service & sales workers",food & beverage services,waiter,1400,1400
+2021,"clerical, service & sales workers",food & beverage services,food service counter attendant,1713,1331
+2021,"clerical, service & sales workers",food & beverage services,captain waiter/waiter supervisor,2036,1890
+2021,"clerical, service & sales workers",information and communications,general office clerk,2561,2420
+2021,"clerical, service & sales workers",information and communications,"receptionist, customer service and information clerk",2897,2829
+2021,"clerical, service & sales workers",information and communications,data entry clerk,1600,1550
+2021,"clerical, service & sales workers","telecommunications, broadcasting & publishing","receptionist, customer service and information clerk",3470,3401
+2021,"clerical, service & sales workers","telecommunications, broadcasting & publishing",general office clerk,3635,3591
+2021,"clerical, service & sales workers",it & other information services,general office clerk,2361,2164
+2021,"clerical, service & sales workers",it & other information services,"receptionist, customer service and information clerk",2658,2626
+2021,"clerical, service & sales workers",it & other information services,data entry clerk,1600,1550
+2021,"clerical, service & sales workers",financial and insurance services,finance and insurance clerk,3901,3571
+2021,"clerical, service & sales workers",financial and insurance services,"receptionist, customer service and information clerk",3811,3370
+2021,"clerical, service & sales workers",financial and insurance services,bank teller and other counter clerk,3438,2949
+2021,"clerical, service & sales workers",financial services,bank teller and other counter clerk,3438,2949
+2021,"clerical, service & sales workers",financial services,finance and insurance clerk,4026,3680
+2021,"clerical, service & sales workers",financial services,bank teller,3555,3000
+2021,"clerical, service & sales workers",insurance,finance and insurance clerk,3351,3092
+2021,"clerical, service & sales workers",insurance,"receptionist, customer service and information clerk",3985,3245
+2021,"clerical, service & sales workers",insurance,general office clerk,3059,2944
+2021,"clerical, service & sales workers",real estate services,housekeeper and related worker,1742,1542
+2021,"clerical, service & sales workers",real estate services,general office clerk,2750,2600
+2021,"clerical, service & sales workers",real estate services,"receptionist, customer service and information clerk",2532,2300
+2021,"clerical, service & sales workers",professional services,secretary,4095,3800
+2021,"clerical, service & sales workers",professional services,general office clerk,2624,2500
+2021,"clerical, service & sales workers",professional services,"receptionist, customer service and information clerk",2587,2470
+2021,"clerical, service & sales workers","legal, accounting & management services",secretary,4129,3800
+2021,"clerical, service & sales workers","legal, accounting & management services",general office clerk,2697,2513
+2021,"clerical, service & sales workers","legal, accounting & management services",legal clerk,4375,4300
+2021,"clerical, service & sales workers",architectural & engineering services,general office clerk,2540,2488
+2021,"clerical, service & sales workers",architectural & engineering services,"receptionist, customer service and information clerk",3126,2900
+2021,"clerical, service & sales workers",architectural & engineering services,accounting and bookkeeping clerk,3059,2659
+2021,"clerical, service & sales workers",administrative and support services,private security officer,2376,1500
+2021,"clerical, service & sales workers",administrative and support services,senior private security officer,2740,1650
+2021,"clerical, service & sales workers",administrative and support services,general office clerk,2400,2320
+2021,"clerical, service & sales workers","education, health and social services",general office clerk,2698,2597
+2021,"clerical, service & sales workers","education, health and social services",teacher aide,2830,2800
+2021,"clerical, service & sales workers","education, health and social services","receptionist, customer service and information clerk",2794,2605
+2021,"clerical, service & sales workers",health & social services,general office clerk,2667,2580
+2021,"clerical, service & sales workers",health & social services,child care and related worker,2045,2000
+2021,"clerical, service & sales workers",health & social services,healthcare assistant (e.g. therapy aide/assistant),1999,1950
+2021,"clerical, service & sales workers","arts, entertainment, recreation and other services","receptionist, customer service and information clerk",2069,1843
+2021,"clerical, service & sales workers","arts, entertainment, recreation and other services",general office clerk,2155,2000
+2021,"clerical, service & sales workers","arts, entertainment, recreation and other services",shop sales assistant,1400,1400
+2021,"production & transport operators, cleaners & labourers",manufacturing,electrical and electronic equipment assembler,2262,1763
+2021,"production & transport operators, cleaners & labourers",manufacturing,lorry driver,2582,1904
+2021,"production & transport operators, cleaners & labourers",manufacturing,hand packer,1556,1450
+2021,"production & transport operators, cleaners & labourers","food, beverages & tobacco",hand packer,1632,1470
+2021,"production & transport operators, cleaners & labourers","food, beverages & tobacco",food and related products machine operator,1500,1406
+2021,"production & transport operators, cleaners & labourers","food, beverages & tobacco","car, taxi, van and light goods vehicle driver",2214,1982
+2021,"production & transport operators, cleaners & labourers",paper/ rubber/ plastic product & printing,"printing, binding and related machine operator",1962,1706
+2021,"production & transport operators, cleaners & labourers",paper/ rubber/ plastic product & printing,plastic products machine operator,1467,1284
+2021,"production & transport operators, cleaners & labourers",paper/ rubber/ plastic product & printing,hand packer,1627,1400
+2021,"production & transport operators, cleaners & labourers","petroleum, chemical & pharmaceutical products",pharmaceutical products machine operator,2307,1883
+2021,"production & transport operators, cleaners & labourers","petroleum, chemical & pharmaceutical products",lorry driver,3657,1767
+2021,"production & transport operators, cleaners & labourers","fabricated metal products, machinery & equipment",machine-tool setter-operator,1880,1528
+2021,"production & transport operators, cleaners & labourers","fabricated metal products, machinery & equipment","supervisor/general foreman (metal, machinery and related trades)",3959,3405
+2021,"production & transport operators, cleaners & labourers","fabricated metal products, machinery & equipment",lorry driver,2540,2000
+2021,"production & transport operators, cleaners & labourers","electronic, computer & optical products",electrical and electronic equipment assembler,2205,1765
+2021,"production & transport operators, cleaners & labourers","electronic, computer & optical products",warehouse worker,2691,2632
+2021,"production & transport operators, cleaners & labourers","electronic, computer & optical products",supervisor/general foreman of assembler and quality checker,3539,2881
+2021,"production & transport operators, cleaners & labourers",transport equipment,pipe fitter,1400,1400
+2021,"production & transport operators, cleaners & labourers",transport equipment,"supervisor/general foreman (metal, machinery and related trades)",1730,1730
+2021,"production & transport operators, cleaners & labourers",construction,supervisor/general foreman (building and related trades),3300,3000
+2021,"production & transport operators, cleaners & labourers",construction,lorry driver,2400,1950
+2021,"production & transport operators, cleaners & labourers",construction,"office, commercial and industrial establishments indoor cleaner",1400,1400
+2021,"production & transport operators, cleaners & labourers",services,bus driver,4003,2489
+2021,"production & transport operators, cleaners & labourers",services,"office, commercial and industrial establishments indoor cleaner",1440,1354
+2021,"production & transport operators, cleaners & labourers",services,"car, taxi, van and light goods vehicle driver",2200,1933
+2021,"production & transport operators, cleaners & labourers",wholesale and retail trade,warehouse worker,2425,2175
+2021,"production & transport operators, cleaners & labourers",wholesale and retail trade,"car, taxi, van and light goods vehicle driver",2515,2184
+2021,"production & transport operators, cleaners & labourers",wholesale and retail trade,hand packer,1600,1460
+2021,"production & transport operators, cleaners & labourers",wholesale trade,warehouse worker,2561,2330
+2021,"production & transport operators, cleaners & labourers",wholesale trade,"car, taxi, van and light goods vehicle driver",2572,2250
+2021,"production & transport operators, cleaners & labourers",wholesale trade,hand packer,1577,1460
+2021,"production & transport operators, cleaners & labourers",retail trade,"car, taxi, van and light goods vehicle driver",2400,2000
+2021,"production & transport operators, cleaners & labourers",retail trade,hand packer,1655,1460
+2021,"production & transport operators, cleaners & labourers",retail trade,warehouse worker,1835,1740
+2021,"production & transport operators, cleaners & labourers",transportation and storage,bus driver,4021,2492
+2021,"production & transport operators, cleaners & labourers",transportation and storage,trailer-truck driver (including prime mover driver),3053,2008
+2021,"production & transport operators, cleaners & labourers",transportation and storage,automotive mechanic,3903,2664
+2021,"production & transport operators, cleaners & labourers",land transport & supporting services,bus driver,4021,2492
+2021,"production & transport operators, cleaners & labourers",land transport & supporting services,automotive mechanic,3903,2664
+2021,"production & transport operators, cleaners & labourers",land transport & supporting services,"car, taxi, van and light goods vehicle driver",2000,1500
+2021,"production & transport operators, cleaners & labourers",water transport & supporting services,ships' deck crew and related worker,2702,1952
+2021,"production & transport operators, cleaners & labourers",accommodation and food services,kitchen assistant,1400,1400
+2021,"production & transport operators, cleaners & labourers",accommodation and food services,food/drink stall assistant,1400,1400
+2021,"production & transport operators, cleaners & labourers",accommodation and food services,food and beverage establishments general cleaner,1400,1400
+2021,"production & transport operators, cleaners & labourers",accommodation,cleaner and helper in hotels and related establishments,1913,1791
+2021,"production & transport operators, cleaners & labourers",accommodation,porter and related worker,2250,1971
+2021,"production & transport operators, cleaners & labourers",food & beverage services,kitchen assistant,1400,1400
+2021,"production & transport operators, cleaners & labourers",food & beverage services,food/drink stall assistant,1400,1400
+2021,"production & transport operators, cleaners & labourers",food & beverage services,food and beverage establishments general cleaner,1400,1400
+2021,"production & transport operators, cleaners & labourers",real estate services,"office, commercial and industrial establishments indoor cleaner",1475,1400
+2021,"production & transport operators, cleaners & labourers",real estate services,supervisor/general foreman (building and related trades),3000,2719
+2021,"production & transport operators, cleaners & labourers",real estate services,"supervisor/general foreman (food processing, woodworking, garment, leather and related trades)",2433,2272
+2021,"production & transport operators, cleaners & labourers",administrative and support services,"office, commercial and industrial establishments indoor cleaner",1440,1300
+2021,"production & transport operators, cleaners & labourers",administrative and support services,"office, commercial and industrial establishments multi-skilled cleaner cum machine operator",1500,1400
+2021,"production & transport operators, cleaners & labourers",administrative and support services,food and beverage establishments general cleaner,1416,1400
+2021,"production & transport operators, cleaners & labourers","education, health and social services",attendant,2203,1850
+2021,"production & transport operators, cleaners & labourers","education, health and social services",hospital/clinic attendant,2203,1841
+2021,"production & transport operators, cleaners & labourers","education, health and social services","office, commercial and industrial establishments indoor cleaner",1522,1516
+2021,"production & transport operators, cleaners & labourers",health & social services,attendant,2172,1846
+2021,"production & transport operators, cleaners & labourers",health & social services,hospital/clinic attendant,2174,1831
+2021,"production & transport operators, cleaners & labourers",health & social services,"car, taxi, van and light goods vehicle driver",2370,1932
+2021,"production & transport operators, cleaners & labourers","arts, entertainment, recreation and other services","office, commercial and industrial establishments indoor cleaner",1400,1400
+2021,"production & transport operators, cleaners & labourers","arts, entertainment, recreation and other services",hand packer,1400,1000
+2021,"production & transport operators, cleaners & labourers","arts, entertainment, recreation and other services","car, taxi, van and light goods vehicle driver",1690,1500

@@ -1,0 +1,109 @@
+# Metadata for Median Monthly Basic and Gross Wages of Common Occupations by Establishment Size in All Industries
+---
+Identifier: '02c1f624-489f-40ad-8fdd-5e66e46b2722'
+Name: 'median-monthly-basic-and-gross-wages-of-common-occupations-by-establishment-size-in-all-industries'
+Title: 'Median Monthly Basic and Gross Wages of Common Occupations by Establishment
+  Size in All Industries'
+Description: 'Refers to basic and gross wages of common occupations by establishment
+  size'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'basic'
+  - 'gross'
+  - 'wages'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'Manpower Research and Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Leslie Chan'
+    Department: 'Manpower Research and Statistics Department'
+    Email: 'leslie_chan@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'https://stats.mom.gov.sg/iMAS_Tables1/Wages/Wages_2021/mrsd_2021Wages_table2.xlsx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2021-06-01 to 2021-06-30'
+Last Updated: '2022-10-26T09:44:45.395614'
+Resources:
+  -
+    Identifier: '8d1b3b1a-5de1-4e1f-8765-5fb5977de178'
+    Title: 'wage_02_size2_annual'
+    Url: 'https://storage.data.gov.sg/median-monthly-basic-and-gross-wages-of-common-occupations-by-establishment-size-in-all-industries/resources/wage-02-size2-annual-2022-08-30T03-07-28Z.csv'
+    Format: 'CSV'
+    Coverage: '2021-06-01 to 2021-06-30'
+    Last Updated: '2022-08-30T03:07:28.482000'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'occ_desc'
+        Title: 'Occ Desc'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'estab_size1'
+        Title: 'Estab Size1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'estab_size2'
+        Title: 'Estab Size2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mthly_gross_wage_50_pctile'
+        Title: 'Mthly Gross Wage 50 Pctile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Dollars'
+      -
+        Name: 'mthly_basic_wage_50_pctile'
+        Title: 'Mthly Basic Wage 50 Pctile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Dollars'
+  -
+    Identifier: 'b24ac003-bd78-460c-8a59-0f71f0079a84'
+    Title: 'wage_02_size1_annual'
+    Url: 'https://storage.data.gov.sg/median-monthly-basic-and-gross-wages-of-common-occupations-by-establishment-size-in-all-industries/resources/wage-02-size1-annual-2022-10-19T08-53-28Z.csv'
+    Format: 'CSV'
+    Coverage: '2021-06-01 to 2021-06-30'
+    Last Updated: '2022-10-19T08:53:28.923530'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'occ_desc'
+        Title: 'Occ desc'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'estab_size1'
+        Title: 'Estab size1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mthly_gross_wage_50_pctile'
+        Title: 'Mthly gross wage 50 pctile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Dollars'
+      -
+        Name: 'mthly_basic_wage_50_pctile'
+        Title: 'Mthly basic wage 50 pctile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Dollars'

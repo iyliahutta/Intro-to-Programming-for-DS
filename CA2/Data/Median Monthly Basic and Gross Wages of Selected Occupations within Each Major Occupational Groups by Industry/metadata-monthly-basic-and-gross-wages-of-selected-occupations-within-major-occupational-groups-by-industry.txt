@@ -1,0 +1,73 @@
+# Metadata for Median Monthly Basic and Gross Wages of Selected Occupations within Each Major Occupational Groups by Industry
+---
+Identifier: '003802dc-9200-43ee-8821-cdc6672fee6f'
+Name: 'monthly-basic-and-gross-wages-of-selected-occupations-within-major-occupational-groups-by-industry'
+Title: 'Median Monthly Basic and Gross Wages of Selected Occupations within Each Major
+  Occupational Groups by Industry'
+Description: 'Refers to basic and gross wages of selected occupations within each
+  major occupational group by industry'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'basic'
+  - 'gross'
+  - 'wages'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'Manpower Research and Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Leslie Chan'
+    Department: 'Manpower Research and Statistics Department'
+    Email: 'leslie_chan@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'https://stats.mom.gov.sg/iMAS_Tables1/Wages/Wages_2021/mrsd_2021Wages_table5.xlsx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2021-06-01 to 2021-06-30'
+Last Updated: '2022-10-19T06:56:06.749638'
+Resources:
+  -
+    Identifier: 'c5ccaeb2-2843-48c5-b096-4008fc857d99'
+    Title: 'wage_05_majorocc_annual'
+    Url: 'https://storage.data.gov.sg/monthly-basic-and-gross-wages-of-selected-occupations-within-major-occupational-groups-by-industry/resources/wage-05-majorocc-annual-2022-10-19T06-56-06Z.csv'
+    Format: 'CSV'
+    Coverage: '2021-06-01 to 2021-06-30'
+    Last Updated: '2022-10-19T06:56:06.348440'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'major_occ'
+        Title: 'Major Occ'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'ind1'
+        Title: 'Ind1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'occ_desc'
+        Title: 'Occ Desc'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'mthly_gross_wage_50_pctile'
+        Title: 'Mthly Gross Wage 50 Pctile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Dollars'
+      -
+        Name: 'mthly_basic_wage_50_pctile'
+        Title: 'Mthly Basic Wage 50 Pctile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Dollars'
