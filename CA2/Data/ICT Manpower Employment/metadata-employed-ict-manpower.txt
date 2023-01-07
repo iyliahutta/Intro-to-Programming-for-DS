@@ -1,0 +1,60 @@
+# Metadata for Employed ICT Manpower
+---
+Identifier: 'c11e5e84-b75d-4727-9371-9029f5491954'
+Name: 'employed-ict-manpower'
+Title: 'Employed ICT Manpower'
+Description: 'To track the infocomm manpower pool and profile'
+Topics:
+  - 'Technology'
+Keywords:
+  - 'Employment'
+  - 'Information Technology'
+  - 'Jobs'
+  - 'Workforce'
+Publisher:
+  Name: 'Infocomm Media Development Authority'
+  Admin 1:
+    Name: 'Tan Hock Chai'
+    Department: 'Planning'
+    Email: 'tan_hock_chai@imda.gov.sg'
+  Admin 2:
+    Name: 'Miles Chan'
+    Department: 'Planning'
+    Email: 'miles_chan@imda.gov.sg'
+Sources:
+  - 'Infocomm Media Development Authority'
+Source Url: 'https://www.imda.gov.sg/industry-development/facts-and-figures/infocomm-media-professionals'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1999-01-01 to 2018-12-31'
+Last Updated: '2020-11-25T04:37:52.163821'
+Resources:
+  -
+    Identifier: '9a12df82-a2af-47ba-a3a6-fda0a187b83b'
+    Title: 'Employed ICT Manpower'
+    Url: 'https://storage.data.gov.sg/employed-ict-manpower/resources/employed-ict-manpower-2020-11-25T04-37-51Z.csv'
+    Format: 'CSV'
+    Coverage: '1999-01-01 to 2018-12-31'
+    Last Updated: '2020-11-25T04:37:51.612814'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'manpower'
+        Title: 'Manpower'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Manpower Employed'
+      -
+        Name: 'growth'
+        Title: 'Growth'
+        Type: 'numeric'
+        Sub Type: 'percentage'
+        Description:
+          - 'Percentages are expressed as a value over 100, i.e. "100" represents
+            100%'
+          - '"na" : Data not available or not applicable'
