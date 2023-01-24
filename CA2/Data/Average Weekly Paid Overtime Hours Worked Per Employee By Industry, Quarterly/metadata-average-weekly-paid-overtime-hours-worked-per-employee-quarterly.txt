@@ -1,0 +1,219 @@
+# Metadata for Average Weekly Paid Overtime Hours Worked Per Employee By Industry, Quarterly
+---
+Identifier: '20db3a43-b1a3-41e9-8ed0-612d6b6f9062'
+Name: 'average-weekly-paid-overtime-hours-worked-per-employee-quarterly'
+Title: 'Average Weekly Paid Overtime Hours Worked Per Employee By Industry, Quarterly'
+Description:
+  - 'Source: Labour Market Survey, Manpower Research & Statistics Department, MOM'
+  - ''
+  - 'Average Weekly Paid Overtime Hours Worked per Employee refers to the number of
+    hours worked by an employee in excess of the standard hours for which the employees
+    were paid. It excludes overtime hours worked for which "time-off" was granted
+    instead of wage payment.'
+  - ''
+  - 'Before 2006, the Labour Market Survey covers private sector establishments each
+    with at least 25 employees. From 2006 onwards, the survey also covers the public
+    sector.'
+  - ''
+  - 'Data are rounded to one decimal place.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'average weekly overtime hours worked'
+  - 'overtime hours worked'
+  - 'paid overtime hours worked'
+  - 'weekly overtime hours worked'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Samantha Teo'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'samantha_teo@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'http://stats.mom.gov.sg/Pages/Hours-Worked-Summary-Table.aspx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '1990-01-01 to 2022-09-30'
+Last Updated: '2022-12-15T06:35:37.546256'
+Resources:
+  -
+    Identifier: 'd7b8e865-fd1c-44ec-9b9d-854e37f7a019'
+    Title: 'Average Weekly Paid Overtime Hours Worked per Employee-Topline'
+    Url: 'https://storage.data.gov.sg/average-weekly-paid-overtime-hours-worked-per-employee-quarterly/resources/average-weekly-paid-overtime-hours-worked-per-employee-topline-2022-12-15T06-31-54Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Average Weekly Paid Overtime Hours Worked per Employee refers to the number
+        of hours worked by an employee in excess of the standard hours for which the
+        employees were paid. It excludes overtime hours worked for which "time-off"
+        was granted instead of wage payment.'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+    Last Updated: '2022-12-15T06:31:54.295648'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'overtime_paid_hours'
+        Title: 'Overtime Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+  -
+    Identifier: '2e8325b3-a015-4691-afb3-e477d200436e'
+    Title: 'Average Weekly Paid Overtime Hours Worked per Employee by Industry (Level
+      1)'
+    Url: 'https://storage.data.gov.sg/average-weekly-paid-overtime-hours-worked-per-employee-quarterly/resources/average-weekly-paid-overtime-hours-worked-per-employee-by-industry-level-1-2022-12-15T06-33-06Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Average Weekly Paid Overtime Hours Worked per Employee refers to the number
+        of hours worked by an employee in excess of the standard hours for which the
+        employees were paid. It excludes overtime hours worked for which "time-off"
+        was granted instead of wage payment.'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:33:06.467686'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'overtime_paid_hours'
+        Title: 'Overtime Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+  -
+    Identifier: 'f0c761b8-85b3-4c0a-8599-f2b63e148579'
+    Title: 'Average Weekly Paid Overtime Hours Worked per Employee by Industry (Level
+      2)'
+    Url: 'https://storage.data.gov.sg/average-weekly-paid-overtime-hours-worked-per-employee-quarterly/resources/average-weekly-paid-overtime-hours-worked-per-employee-by-industry-level-2-2022-12-15T06-34-16Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Average Weekly Paid Overtime Hours Worked per Employee refers to the number
+        of hours worked by an employee in excess of the standard hours for which the
+        employees were paid. It excludes overtime hours worked for which "time-off"
+        was granted instead of wage payment.'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:34:16.389278'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'overtime_paid_hours'
+        Title: 'Overtime Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+  -
+    Identifier: '0aaa0dbe-4972-4c07-9ba0-ba24e8926630'
+    Title: 'Average Weekly Paid Overtime Hours Worked per Employee by Industry (Level
+      3)'
+    Url: 'https://storage.data.gov.sg/average-weekly-paid-overtime-hours-worked-per-employee-quarterly/resources/average-weekly-paid-overtime-hours-worked-per-employee-by-industry-level-3-2022-12-15T06-35-36Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Average Weekly Paid Overtime Hours Worked per Employee refers to the number
+        of hours worked by an employee in excess of the standard hours for which the
+        employees were paid. It excludes overtime hours worked for which "time-off"
+        was granted instead of wage payment.'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:35:36.582236'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry3'
+        Title: 'Industry3'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'overtime_paid_hours'
+        Title: 'Overtime Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+        Description: '"-" : Data is negligible or not significant'

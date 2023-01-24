@@ -1,0 +1,84 @@
+# Metadata for Compensation Of Employees By Industry At Current Prices, Annual
+---
+Identifier: '9e312fca-2a07-4d2a-9ec7-1a65ee6cf748'
+Name: 'compensation-of-employees-by-industry-at-current-prices-annual'
+Title: 'Compensation Of Employees By Industry At Current Prices, Annual'
+Description: 'Compensation of employees is defined as the total remuneration, in cash
+  or in kind, payable by an enterprise to an employee in return for work done by the
+  latter during the accounting period.  It consists of wages and salaries and employers''
+  social contributions.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'CoE'
+  - 'Compensation of Employees'
+  - 'Wages'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'https://tablebuilder.singstat.gov.sg/table/TS/M016011'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1980-01-01 to 2018-12-31'
+Last Updated: '2023-01-10T09:25:04.305088'
+Resources:
+  -
+    Identifier: '1354d855-e29c-4ff7-bf02-97eb4d988b1f'
+    Title: 'Compensation of Employees at Current Prices, Annual'
+    Url: 'https://storage.data.gov.sg/compensation-of-employees-by-industry-at-current-prices-annual/resources/compensation-of-employees-at-current-prices-annual-2019-08-28T17-27-32Z.csv'
+    Format: 'CSV'
+    Coverage: '1980-01-01 to 2018-12-31'
+    Last Updated: '2019-08-28T17:27:32.468427'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Total'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Compensation of Employees'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Million'
+  -
+    Identifier: '442c08cb-4765-4082-ab31-2302bc3ba2aa'
+    Title: 'Compensation of Employees by Industry at Current Prices, Annual'
+    Url: 'https://storage.data.gov.sg/compensation-of-employees-by-industry-at-current-prices-annual/resources/compensation-of-employees-by-industry-at-current-prices-annual-2019-08-28T17-28-08Z.csv'
+    Format: 'CSV'
+    Coverage: '1980-01-01 to 2018-12-31'
+    Last Updated: '2019-08-28T17:28:08.911087'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Total'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Industry'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Compensation of Employees'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ Million'

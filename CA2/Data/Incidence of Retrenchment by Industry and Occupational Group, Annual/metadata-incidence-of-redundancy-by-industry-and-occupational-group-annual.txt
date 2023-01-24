@@ -1,0 +1,232 @@
+# Metadata for Incidence of Retrenchment by Industry and Occupational Group, Annual
+---
+Identifier: 'b8adf115-d80a-47eb-b354-2914f2061b75'
+Name: 'incidence-of-redundancy-by-industry-and-occupational-group-annual'
+Title: 'Incidence of Retrenchment by Industry and Occupational Group, Annual'
+Description:
+  - 'Source: Labour Market Survey, Manpower Research & Statistics Department, MOM
+    ​'
+  - ''
+  - 'Incidence of retrenchment refers to the number of retrenched employees per 1,000
+    employees. Retrenchment refers to the termination of permanent employees due to
+    redundancy and early termination of term contract employees due to redundancy.'
+  - ''
+  - 'Before 2006, the Labour Market Survey covers private sector establishments each
+    with at least 25 employees. From 2006 onwards, the survey also covers the public
+    sector.'
+  - ''
+  - 'Figures are rounded to one decimal place.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'incidence of retrenchment'
+  - 'jobs'
+  - 'retrenchment'
+  - 'unemployment'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Samantha Teo'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'samantha_teo@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'http://stats.mom.gov.sg/Pages/Redundancy-Summary-Table.aspx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '1998-01-01 to 2021-12-31'
+Last Updated: '2022-12-15T07:18:43.721952'
+Resources:
+  -
+    Identifier: '6bc172a4-192f-4ca3-90dc-88ada4f46a64'
+    Title: 'Incidence of Retrenchment -Topline'
+    Url: 'https://storage.data.gov.sg/incidence-of-redundancy-by-industry-and-occupational-group-annual/resources/incidence-of-retrenchment-topline-2022-03-16T02-29-49Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2021-12-31'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM ​'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+    Last Updated: '2022-03-16T02:29:49.801681'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'incidence_of_retrenchment'
+        Title: 'Incidence of retrenchment'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Employees'
+  -
+    Identifier: '37913564-d97a-4e33-9d09-9ce267a4c602'
+    Title: 'Incidence of Retrenchment by Industry (Level1)'
+    Url: 'https://storage.data.gov.sg/incidence-of-redundancy-by-industry-and-occupational-group-annual/resources/incidence-of-retrenchment-by-industry-level1-2022-12-15T07-16-14Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2021-12-31'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM ​'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T07:16:14.247859'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'incidence_of_retrenchment'
+        Title: 'Incidence of retrenchment'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Employees'
+        Description: '"-" : Data is negligible or not significant'
+  -
+    Identifier: '8eba0d05-c360-4047-83ab-ff6ae2d8f267'
+    Title: 'Incidence of Retrenchment by Industry (Level2)'
+    Url: 'https://storage.data.gov.sg/incidence-of-redundancy-by-industry-and-occupational-group-annual/resources/incidence-of-retrenchment-by-industry-level2-2022-12-15T07-17-27Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2021-12-31'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM ​'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T07:17:27.631333'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'incidence_of_retrenchment'
+        Title: 'Incidence of retrenchment'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Employees'
+        Description: '"-" : Data is negligible or not significant'
+  -
+    Identifier: '26421dd1-be08-44e1-a68e-88faeff40adb'
+    Title: 'Incidence of Retrenchment by Industry (Level3)'
+    Url: 'https://storage.data.gov.sg/incidence-of-redundancy-by-industry-and-occupational-group-annual/resources/incidence-of-retrenchment-by-industry-level3-2022-12-15T07-18-42Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2021-12-31'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM ​'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T07:18:42.754594'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry3'
+        Title: 'Industry3'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'incidence_of_retrenchment'
+        Title: 'Incidence of retrenchment'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Employees'
+        Description: '"-" : Data is negligible or not significant'
+  -
+    Identifier: '41c2ce53-a4f7-4692-8621-224130aca8d6'
+    Title: 'Incidence of Retrenchment by Broad Occupational Group'
+    Url: 'https://storage.data.gov.sg/incidence-of-redundancy-by-industry-and-occupational-group-annual/resources/incidence-of-retrenchment-by-broad-occupational-group-2022-03-16T02-33-42Z.csv'
+    Format: 'CSV'
+    Coverage: '1998-01-01 to 2021-12-31'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM ​'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+    Last Updated: '2022-03-16T02:33:42.741748'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'occupation1'
+        Title: 'Occupation1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'incidence_of_retrenchment'
+        Title: 'Incidence of retrenchment'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Employees'
