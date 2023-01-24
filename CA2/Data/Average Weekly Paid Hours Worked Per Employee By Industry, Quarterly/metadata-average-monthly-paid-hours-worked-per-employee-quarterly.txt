@@ -1,0 +1,194 @@
+# Metadata for Average Weekly Paid Hours Worked Per Employee By Industry, Quarterly
+---
+Identifier: '7e8f97a1-31f0-4905-a886-11ce49cb06e6'
+Name: 'average-monthly-paid-hours-worked-per-employee-quarterly'
+Title: 'Average Weekly Paid Hours Worked Per Employee By Industry, Quarterly'
+Description:
+  - 'Source: Labour Market Survey, Manpower Research & Statistics Department, MOM'
+  - ''
+  - 'Average Weekly Paid Hours Worked refers to the total number of paid hours worked
+    during a week by an employee. It is the sum of standard hours and paid overtime
+    hours worked.'
+  - ''
+  - 'Before 2006, the Labour Market Survey covers private sector establishments each
+    with at least 25 employees. From 2006 onwards, the survey also covers the public
+    sector.'
+  - ''
+  - 'Data are rounded to one decimal place.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'employment'
+  - 'hours worked'
+  - 'jobs'
+  - 'working hours'
+Publisher:
+  Name: 'Ministry of Manpower'
+  Admin 1:
+    Name: 'Teo Chee Hao'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'teo_chee_hao@mom.gov.sg'
+  Admin 2:
+    Name: 'Samantha Teo'
+    Department: 'MOM-Manpower Research & Statistics Department'
+    Email: 'samantha_teo@mom.gov.sg'
+Sources:
+  - 'Ministry of Manpower'
+Source Url: 'http://stats.mom.gov.sg/Pages/Hours-Worked-Summary-Table.aspx'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '1990-01-01 to 2022-09-30'
+Last Updated: '2022-12-15T06:13:49.047759'
+Resources:
+  -
+    Identifier: 'c7cea730-96be-4273-a76d-9e3401b87632'
+    Title: 'Average Weekly Paid Hours Worked per Employee-Topline'
+    Url: 'https://storage.data.gov.sg/average-monthly-paid-hours-worked-per-employee-quarterly/resources/average-weekly-paid-hours-worked-per-employee-topline-2022-12-15T06-10-10Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+    Last Updated: '2022-12-15T06:10:10.400834'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'total_paid_hours'
+        Title: 'Total Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+  -
+    Identifier: '1109b8a4-dafe-42af-840e-0cf447147d5e'
+    Title: 'Average Weekly Paid Hours Worked per Employee by Industry (Level 1)'
+    Url: 'https://storage.data.gov.sg/average-monthly-paid-hours-worked-per-employee-quarterly/resources/average-weekly-paid-hours-worked-per-employee-by-industry-level-1-2022-12-15T06-11-19Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:11:19.501853'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'total_paid_hours'
+        Title: 'Total Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+  -
+    Identifier: 'fc5f73d5-6325-4ca1-9ca5-841f392ca606'
+    Title: 'Average Weekly Paid Hours Worked per Employee by Industry (Level 2)'
+    Url: 'https://storage.data.gov.sg/average-monthly-paid-hours-worked-per-employee-quarterly/resources/average-weekly-paid-hours-worked-per-employee-by-industry-level-2-2022-12-15T06-12-32Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:12:32.503045'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'total_paid_hours'
+        Title: 'Total Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
+  -
+    Identifier: 'c52010a8-b063-40ca-acc6-7cd9f35eb606'
+    Title: 'Average Weekly Paid Hours Worked per Employee by Industry (Level 3)'
+    Url: 'https://storage.data.gov.sg/average-monthly-paid-hours-worked-per-employee-quarterly/resources/average-weekly-paid-hours-worked-per-employee-by-industry-level-3-2022-12-15T06-13-48Z.csv'
+    Format: 'CSV'
+    Coverage: '1990-01-01 to 2022-09-30'
+    Description:
+      - 'Source: Labour Market Survey, Manpower Research & Statistics Department,
+        MOM'
+      - ''
+      - 'Before 2006, the Labour Market Survey covers private sector establishments
+        each with at least 25 employees. From 2006 onwards, the survey also covers
+        the public sector.'
+      - ''
+      - 'Data are rounded to one decimal place.'
+      - ''
+      - 'Data may not be strictly comparable due to the various versions of SSIC coding.'
+    Last Updated: '2022-12-15T06:13:48.280942'
+    Schema:
+      -
+        Name: 'quarter'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'industry1'
+        Title: 'Industry1'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry2'
+        Title: 'Industry2'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'industry3'
+        Title: 'Industry3'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'total_paid_hours'
+        Title: 'Total Paid Hours'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Hours'
