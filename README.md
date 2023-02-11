@@ -12,16 +12,14 @@ Lab 2 (Numpy) is [complete](https://github.com/iyliahutta/Intro-to-Programming-f
 
 Lab 3 (Matplotlib) is [complete](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%203/Lab%203.ipynb)!
 
-Lab 4 (Pandas) is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%204/Lab%204.ipynb).
+Lab 4 (Pandas) is [only complete for the submission portions](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/Lab%204/Lab%204.ipynb).
 
 Continuous Assessment 1 (CA1) on HDB data using basic Python, Numpy and Matplotlib is completed!:
 * The Jupyter notebook is [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1.ipynb)
 * The report slides are [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA1/CA1%20Slides.pptx)
 
-Continuous Assessment 2 (CA2) is [ongoing](https://github.com/iyliahutta/Intro-to-Programming-for-DS/tree/master/CA2): 
-* To use at least three datasets from [data.gov.sg](https://data.gov.sg)
-    * Unrestricted topic with the option to use datasets from anywhere else on the Internet
-* To use Pandas for data manipulation
-* To use Matplotlib, Seaborn, Bokeh, Pygal etc. for data visualisation
-* To store and retrieve data in a relational database such as mySQL or NoSQL database like MongoDB on at least one of the datasets
-    * To produce interactive visualisations that allow users to view the data in different ways
+Continuous Assessment 2 (CA2) on the ICT industry using Pandas, Seaborn and SQLalchemy is completed!:
+* The Jupyter notebook is [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA2/CA2.ipynb)
+* The report slides are [here](https://github.com/iyliahutta/Intro-to-Programming-for-DS/blob/master/CA2/CA2%20Slides.pptx)
+
+As of 16 Feb 2023, I am done with this course and so I will not be making any further updates to this repository. I hope the information here will be useful for anyone out there. Have fun!
